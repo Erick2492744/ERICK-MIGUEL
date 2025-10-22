@@ -34,12 +34,16 @@
   <main style="max-width:700px; margin:40px auto; padding:20px;">
 <!-- Digite aqui abaixo nas tags <p> o seu texto sobre sua página e sobre você -->
 <h2>Sobre o Projeto</h2>
-<p>TEXTO SOBRE O PROJETO 1º PARÁGRAFO</p>
-<p>TEXTO SOBRE O PROJETO 2º PARÁGRAFO</p>
+<p>"O GitHub é uma plataforma essencial para desenvolvedores, permitindo o armazenamento, versionamento e compartilhamento de código de maneira colaborativa. Com ele, é possível gerenciar projetos de software de forma organizada, trabalhando em equipe e acompanhando o histórico de alterações. Para quem busca aprimorar suas habilidades de programação ou contribuir com projetos open-source, o GitHub é uma ferramenta indispensável no mundo da tecnologia."</p>
+<p>O GitHub é realmente uma ferramenta poderosa e tem muito a oferecer, especialmente no mundo do desenvolvimento de software.</p>
     
 <h2>Sobre o Autor</h2>
-<p>TEXTO SOBRE VOCÊ 1º PARÁGRAFO</p>
-<p>TEXTO SOBRE VOCÊ 2º PARÁGRAFO</p>
+<p>Você poderia ser descrito assim:
+
+"Sou jogador profissional e me dedico ao máximo em cada treino e competição. Acredito que o esforço constante é o que me diferencia, sempre buscando superar meus limites e melhorar meu desempenho. Minha disciplina e foco são as bases do meu trabalho, e estou sempre em busca de evolução, tanto dentro quanto fora de campo."
+
+Ficou bom? Se quiser ajustar ou incluir algo mais, é só falar!</p>
+<p>"Além da minha carreira como jogador, também dou muita importância aos meus estudos. Sei que o equilíbrio entre a prática esportiva e o aprendizado é essencial para o meu crescimento pessoal e profissional. Me esforço para manter o foco nos estudos, pois acredito que a educação é a chave para abrir novas portas e me preparar para o futuro, independentemente do que aconteça na minha carreira esportiva." </p>
   <p style="margin-top:30px;">
       <a href="index.html" style="text-decoration:none;">← Voltar para a página inicial</a>
     </p>
